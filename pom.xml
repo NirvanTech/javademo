@@ -12,6 +12,8 @@
   	<module>com.demo.guava.concurrency</module>
   	<module>com.demo.guava.event</module>
   	<module>com.demo.messaging.wl.queue</module>
+
+  	<module>com.demo.osgi</module>
   </modules>
   <dependencyManagement>
 		<dependencies>
